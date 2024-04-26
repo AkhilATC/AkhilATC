@@ -1,7 +1,7 @@
 
 # Akhil T Cheriyan 
 ##### AkhilATC 🧢
-> Over 3 years of experience in design, development and maintenance of web
+> Over 6 years of experience in design, development and maintenance of web
 applications, currently a Software Engineer who is passionate about the job and
 new technologies in general. Completed Masters in Computer Science with  specialization in Machine Intelligence. Extensive experience in Python Flask 
 web frameworks in implementing MVC architecture and worked with projects across domains and translated business requirements into problem statements.
